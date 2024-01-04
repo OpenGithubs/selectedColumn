@@ -12,7 +12,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=OpenGithubs/weekly&type=Date)](https://star-history.com/#OpenGithubs/weekly&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=OpenGithubs/selectedColumn&type=Date)](https://star-history.com/#OpenGithubs/selectedColumn&Date)
 
 ## 2023精选专栏
 
